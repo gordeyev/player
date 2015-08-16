@@ -1,0 +1,17 @@
+{
+  "name": "Player",
+  "version": "0.0.1",
+  "description": "Third task for SHRI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "audio"
+  ],
+  "author": "gordeyev",
+  "license": "ISC",
+  "dependencies": {
+    "font-awesome": "^4.4.0"
+  }
+}
